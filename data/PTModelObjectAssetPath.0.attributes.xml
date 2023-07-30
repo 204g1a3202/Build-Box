@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd"/>
+
+<plist version="1.0">
+    <dict>
+        <key>ROOT</key>
+        <array>
+            <dict>
+                <key>id</key>
+                <string>2805</string>
+                <key>className</key>
+                <string>PTModelObjectAssetPath</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Path</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{347.144,325.649}</string>
+                </dict>
+                <key>Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>{1.000,1.000}</string>
+                </dict>
+                <key>Hidden</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Locked</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Play Mode</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kPlayModePingPong</string>
+                </dict>
+                <key>Affected Asset</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kAll</string>
+                </dict>
+                <key>zDepth</key>
+                <string>501</string>
+                <key>points</key>
+                <array>
+                    <string>{-2.149,-91.354}</string>
+                </array>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>2850</string>
+                <key>className</key>
+                <string>PTModelObjectAssetPath</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Path 2</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{677.092,335.322}</string>
+                </dict>
+                <key>Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>{1.000,1.000}</string>
+                </dict>
+                <key>Hidden</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Locked</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Play Mode</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kPlayModeLoop</string>
+                </dict>
+                <key>Affected Asset</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kAll</string>
+                </dict>
+                <key>zDepth</key>
+                <string>502</string>
+                <key>points</key>
+                <array>
+                    <string>{4.299,-109.624}</string>
+                    <string>{3.224,-119.297}</string>
+                    <string>{4.299,-122.521}</string>
+                    <string>{144.016,-119.297}</string>
+                </array>
+            </dict>
+        </array>
+    </dict>
+</plist>
